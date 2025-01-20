@@ -17,7 +17,7 @@ In this project I was required to build a weather app that displays the current 
   View the detailed description and updates for my [Weather App project](https://roadmap.sh/projects/weather-app) on roadmap.sh.
 
 - **Support My Solution:**  
-  If you like my solution for the Tooltip UI project, [please upvote it here](https://roadmap.sh/projects/datepicker-ui/solutions?u=6771443070129741a8ecdc00). Your support means a lot! 👍
+  If you like my solution for the Tooltip UI project, [please upvote it here](https://roadmap.sh/projects/weather-app/solutions?u=6771443070129741a8ecdc00). Your support means a lot! 👍
 
 - **My Profile on roadmap.sh:**  
   Check out my achievements, projects, and solutions on my [roadmap.sh profile](https://roadmap.sh/u/huzaifaakhtar).
