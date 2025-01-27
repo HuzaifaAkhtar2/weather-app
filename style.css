@@ -3,8 +3,8 @@
 :root {
     --body-bg: #222;
     --text-color: #fff;
-    --search-color: #555;
-    --search-bg-color: #ebfffc;
+    --search-color: #000;
+    --search-bg-color: #fff;
     --card-bg: #333;
 }
 
